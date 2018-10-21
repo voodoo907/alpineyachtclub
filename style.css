@@ -1,5 +1,6 @@
 html {
   font-family: Verdana, Geneva, sans-serif;
+  background-color: LavenderBlush;
 }
 header {
   text-align: center;
@@ -16,4 +17,15 @@ header {
   max-width: 10%;
   padding: 4px;
   vertical-align: middle;
+}
+.photo {
+  display: block;
+  max-height: auto;
+  max-width: 50%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 50px;
 }
