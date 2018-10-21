@@ -1,0 +1,19 @@
+html {
+  font-family: Verdana, Geneva, sans-serif;
+}
+header {
+  text-align: center;
+  background-color: brown;
+}
+.banner {
+  max-height: 90px;
+  max-width: 80%;
+  padding: 4px;
+  vertical-align: middle;
+}
+.logo {
+  max-height: 90px;
+  max-width: 10%;
+  padding: 4px;
+  vertical-align: middle;
+}
